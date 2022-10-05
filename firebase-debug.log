@@ -1,0 +1,21 @@
+[debug] [2022-10-05T17:42:52.313Z] ----------------------------------------------------------------------
+[debug] [2022-10-05T17:42:52.317Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\casas bahia\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2022-10-05T17:42:52.318Z] CLI Version:   11.13.0
+[debug] [2022-10-05T17:42:52.318Z] Platform:      win32
+[debug] [2022-10-05T17:42:52.318Z] Node Version:  v16.15.0
+[debug] [2022-10-05T17:42:52.323Z] Time:          Wed Oct 05 2022 14:42:52 GMT-0300 (Horário Padrão de Brasília)
+[debug] [2022-10-05T17:42:52.324Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-10-05T17:42:52.345Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2022-10-05T17:42:52.346Z] > authorizing via signed-in user (aluno.profju@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\casas bahia\BYJUS\PROJETOS\aplicativo-de-desabafar
+
